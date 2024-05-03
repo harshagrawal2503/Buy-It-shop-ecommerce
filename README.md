@@ -1,5 +1,5 @@
 # Buy-It
-https://buyit-shop.netlify.app/
+https://buy-it-ecommerce.netlify.app/
 
 Checkout this deployment link 🔥🔥🔥
 
