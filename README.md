@@ -1,4 +1,7 @@
 # Buy-It
+https://buyit-shop.netlify.app/
+
+Checkout this deployment link 🔥🔥🔥
 
 ## Project setup
 
@@ -6,7 +9,7 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles for development
 
 ```
 npm run serve
