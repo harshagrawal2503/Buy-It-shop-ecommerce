@@ -1,7 +1,7 @@
 # Buy-It
 https://buy-it-ecommerce.netlify.app/
 
-Checkout this deployment link 🔥🔥🔥
+Checkout this deployment  🔥🔥🔥
 
 ## Project setup
 
